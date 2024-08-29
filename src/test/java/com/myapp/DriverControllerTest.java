@@ -32,6 +32,7 @@ import static org.junit.Assert.assertEquals;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebMvcTest(value = DriverController.class, secure = false)
+@SpringBootTest
 public class DriverControllerTest {
 
     @Autowired
