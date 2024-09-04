@@ -136,15 +136,7 @@
                  
         </plugins>
     </build>
-<distributionManagement>
-		<repository>
-			<id>dev</id>
-			<url>file://jarstaging</url>
-		</repository>
-	</distributionManagement>
-
-
-
+	
 <distributionManagement>
 
     <repository>
