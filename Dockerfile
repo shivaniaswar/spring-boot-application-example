@@ -1,4 +1,4 @@
-FROM openjdk:1.8
+FROM openjdk:8-jdk
 
 COPY target/myapp_server-1.0.0-SNAPSHOT.jar  /usr/app/
 
