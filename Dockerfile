@@ -6,4 +6,4 @@ WORKDIR /usr/app/
 
 ENTRYPOINT ["java", "-jar", "myapp_server-1.0.1-SNAPSHOT.jar"]
 
-EXPOSE 8080
+EXPOSE 8082
